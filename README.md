@@ -3,7 +3,7 @@
 <p align="center">
 <img src="./assets/pipeline.png" width="1080px"/> 
 <br>
-<em>Pipeline of ProDreamDream.</em>
+<em>Pipeline of ProDream.</em>
 </p>
 
 ## TODO
