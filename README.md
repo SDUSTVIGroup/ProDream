@@ -10,13 +10,14 @@
 We build our source code based on original threestudio. See [installation.md](docs/installation.md) for additional information.
 
 ## Qucik Start
-```sh
+sh
 # load a threestudio checkpoint as a condition:
 python launch.py --config ./configs/ProDream.yaml --train --gpu 0 system.prompt_processor.prompt="{your text prompt}" system.geometry_c.shape_init="{path of the last checkpoint file}"
+
+```sh
+For example, you can use the template geometry we provide in ./assets/Spider_Man/ckpts/last.ckpt):
 ```
 
-For example, you can use the template geometry we provide in ./assets/Spider_Man/ckpts/last.ckpt):
-```sh
 ## TODO
 
 - [x] **Part I: Release of Prompts and 3D Assets**  
