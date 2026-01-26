@@ -18,12 +18,17 @@ python launch.py --config ./configs/ProDream.yaml --train --gpu 0 system.prompt_
 ```sh
 For example, you can use the template geometry we provide in ./assets/Spider_Man/ckpts/last.ckpt):
 ```
+## 📦 Pre-trained Models
+We provide the **Enhanced 3D Prior** pre-trained models (CKPT). You can download them from the following link:
+
+- **Baidu Netdisk**: [Download Link](https://pan.baidu.com/s/1JBEg2Zbyyi0c04eS9chTiA?pwd=1ic7) 
+- **Extraction Code**: `1ic7`
 
 ## TODO
 
 - [x] **Part I: Release of Prompts and 3D Assets**  
   Open-source all text prompts and generated NeRF assets (multi-view dynamic renders in GIF format).
-- [ ]  **Part II: Open-Source Core Framework Implementation** 
+- [x]  **Part II: Open-Source Core Framework Implementation** 
 
 
 ## Examples
