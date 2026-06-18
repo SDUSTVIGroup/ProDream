@@ -133,4 +133,15 @@ We provide the **Enhanced 3D Prior** pre-trained models (CKPT). You can download
 </tr>
 </table>
 
-
+``` bibtex
+@article{LIU2026114646,
+title = {Progressive contour guidance and enhanced three-dimensional prior for consistent text-to-three-dimensional generation},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {175},
+pages = {114646},
+year = {2026},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2026.114646},
+author = {Honghao Liu and Haixia Wang and Xiao Lu and Zhiguo Zhang},
+}
+```
